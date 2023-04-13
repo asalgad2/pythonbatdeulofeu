@@ -1,0 +1,5 @@
+print('Programa que fa la suma de dos nombres')
+n1=input('Escriu el primer nombre : ')
+n2=input('Escriu el segon nombre : ')
+suma=eval(n1)+eval(n2)
+print('La suma de', n1, 'i', n2, 'és ',suma)
